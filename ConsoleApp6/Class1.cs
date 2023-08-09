@@ -20,7 +20,7 @@ namespace ConsoleApp6
 
             int sum = num1 + num2;
             Console.WriteLine("Result is:" + sum);
-            Console.WriteLine("The end");
+
             Console.ReadLine();
         }
     }
